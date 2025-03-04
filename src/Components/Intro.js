@@ -25,6 +25,12 @@ const Intro = () => {
     }}}
     repeat={Infinity}
   />
+
+
+
+
+
+  
   </div>
   )
 }
